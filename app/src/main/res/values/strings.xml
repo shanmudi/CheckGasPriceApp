@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CheckGasPrice</string>
+    <string name="_680news_gas_price">680News Gas Price</string>
+    <string name="enpro_news">EnPro News</string>
+    <string name="more_news">More News</string>
+    <string name="petro_canada_1525_markham_road"><a href="http://www.petro-canada.ca/en/locations/find-a-gas-station.aspx?MODE=DTS&amp;ID=699">Petro Canada: 1525 Markham Road</a></string>
+    <string name="markham_gas_price">Markham Gas Price</string>
+    <string name="petro_canada_5110_sheppard_ave_e"><a href="http://www.petro-canada.ca/en/locations/find-a-gas-station.aspx?MODE=DTS&amp;ID=683">Petro Canada: 5110 Sheppard Ave E</a></string>
+    <string name="markham_amp_sheppard"><![CDATA[Markham & Sheppard]]></string>
+    <string name="petro_canada_2250_victoria_park_ave"><a href="http://www.petro-canada.ca/en/locations/4085.aspx?MODE=DTS&amp;ID=59124">Petro Canada: 2250 Victoria Park Ave</a></string>
+    <string name="victoria_park_gas_price">Victoria Park Gas Price</string>
+    <string name="gas_predictor"><a href="http://www.gaspredictor.com/">Gas Predictor</a></string>
+    <string name="refresh">Refresh</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="_680news"><a href="http://www.680news.com/toronto-gta-gas-prices/">680News</a></string>
+    <string name="textview"></string>
+</resources>

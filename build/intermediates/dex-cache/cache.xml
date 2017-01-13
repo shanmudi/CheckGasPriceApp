@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\shanmudi\AndroidStudioProjects\CheckGasPrice\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3346bb9eb898d265106c1f23f45081c58681883f">
+        <dex dex="C:\Users\shanmudi\AndroidStudioProjects\CheckGasPrice\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8fe77abcc39d1e6f65479091771c63fdcb8d6df0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shanmudi\AndroidStudioProjects\CheckGasPrice\app\libs\jsoup-1.10.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6b471012876a440ae746860d80738be2dd104655">
+        <dex dex="C:\Users\shanmudi\AndroidStudioProjects\CheckGasPrice\app\build\intermediates\transforms\dex\debug\folders\1000\2\jsoup-1.10.1_8f71955143ac1e8ad7f76e3beaa754dc7276ae87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shanmudi\AndroidStudioProjects\CheckGasPrice\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\shanmudi\AndroidStudioProjects\CheckGasPrice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_b8f8fcd5df04b80e602a11cfdcb3c64ff9a61120\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shanmudi\AndroidStudioProjects\CheckGasPrice\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\shanmudi\AndroidStudioProjects\CheckGasPrice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_af6d8812acf128a108acbcce90aa5f0b558aebef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shanmudi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\shanmudi\AndroidStudioProjects\CheckGasPrice\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_e58e7d3dd4a91d922cba73cb3420dcc253d6b02f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shanmudi\AndroidStudioProjects\CheckGasPrice\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\shanmudi\AndroidStudioProjects\CheckGasPrice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_5a04992a966e88596e914a8bd190914bb8adef43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shanmudi\AndroidStudioProjects\CheckGasPrice\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\shanmudi\AndroidStudioProjects\CheckGasPrice\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_7c77e92530f3322af738f5e80fba7214211860e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shanmudi\AndroidStudioProjects\CheckGasPrice\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\shanmudi\AndroidStudioProjects\CheckGasPrice\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_94a40a1d5536be5b359534b98d80e4f23fefc756\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\shanmudi\AndroidStudioProjects\CheckGasPrice\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="37381c961837012a368f604f8d473e862b1b2e44">
+        <dex dex="C:\Users\shanmudi\AndroidStudioProjects\CheckGasPrice\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5ddeaefbeace5cd14ecd21383ab3b9683eb2d28c\classes.dex" />
+    </item>
+
+</items>

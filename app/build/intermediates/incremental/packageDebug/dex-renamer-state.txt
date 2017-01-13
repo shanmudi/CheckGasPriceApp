@@ -1,0 +1,7 @@
+#Fri Jan 06 16:14:33 EST 2017
+base.0=C\:\\Users\\shanmudi\\AndroidStudioProjects\\CheckGasPrice\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5ddeaefbeace5cd14ecd21383ab3b9683eb2d28c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\shanmudi\\AndroidStudioProjects\\CheckGasPrice\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_8fe77abcc39d1e6f65479091771c63fdcb8d6df0\\classes.dex
+base.1=C\:\\Users\\shanmudi\\AndroidStudioProjects\\CheckGasPrice\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_8fe77abcc39d1e6f65479091771c63fdcb8d6df0
+file.0=C\:\\Users\\shanmudi\\AndroidStudioProjects\\CheckGasPrice\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5ddeaefbeace5cd14ecd21383ab3b9683eb2d28c\\classes.dex
