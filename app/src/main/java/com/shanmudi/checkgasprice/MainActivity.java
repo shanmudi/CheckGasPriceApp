@@ -55,6 +55,12 @@ public class MainActivity extends AppCompatActivity {
         });
 
         //makes the textbox about gas station open url when user taps on it
+        TextView News680Link = (TextView) findViewById(R.id.textView5);
+        News680Link.setMovementMethod(LinkMovementMethod.getInstance());
+
+        TextView GasPredictorLink = (TextView) findViewById(R.id.textView3);
+        GasPredictorLink.setMovementMethod(LinkMovementMethod.getInstance());
+
         TextView MarkahmText = (TextView) findViewById(R.id.textView3);
         MarkahmText.setMovementMethod(LinkMovementMethod.getInstance());
 
